@@ -2,22 +2,21 @@
 
 ## Index
 
-[Article 1.0 - Purpose and Values][1]
+* Article 1.0 - Purpose and Values
 
-
-=== Edit History ===
+## Edit History
 
 * Started on 9/14/2017.
 
-=== Inspiration ===
+## Inspiration
 
 Other Pirate Party constitutions to align with:
 
 * [https://masspirates.org/wiki/Articles_of_Agreement Massachusetts Pirate Party]
 
 ## Article 1.0 - Purpose and Values 
-[1]
-==== 1.1  Purpose ==== 
+
+### 1.1  Purpose
 
 The purpose of the Maryland Pirate Party shall be to further the cause of freedom and unleash the power of individual creativity, through:
 
@@ -31,7 +30,7 @@ The purpose of the Maryland Pirate Party shall be to further the cause of freedo
 
 * promoting open innovation by eliminating patents.
 
-==== 1.2  Core Values ==== 
+### 1.2  Core Values
 
 We believe that:
 
@@ -49,7 +48,7 @@ We believe that:
 
 * That members want to do what is right.  As such we trust our members and encourage them to take initiative and work to advance the party, even if that means, due to circumstances, not asking for permission first.  We expect that members will not do anything stupid and will consult with other members and/or party leadership when needed and depending on how the action will affect the party as a whole.
 
-==== 1.3 Party Platform ==== 
+### 1.3 Party Platform
 
 1.3.1  The party membership shall, through membership meetings, take positions and adopt  a platform of principles and positions on a number of policy issues and areas.
  
@@ -67,9 +66,9 @@ For the Party and the purposes of these Articles of Agreement:
 
 * the party leadership shall ensure that a secure system exists to carry out the above assertions.
 
-=== Article 2.0 – Membership ===
+## Article 2.0 – Membership
 
-==== 2.1  Membership Definition ==== 
+### 2.1  Membership Definition
 
 A member is:  
 
@@ -81,7 +80,7 @@ A member is:
 
 * A non-citizen of Maryland who notifies the Maryland Pirate Party that she wishes to be a member and provides her mailing address.
 
-==== 2.2  Member Entitlements  ==== 
+### 2.2  Member Entitlements
 
 All members are entitled to:
 
@@ -97,7 +96,7 @@ All members are entitled to:
 
 * resign their membership in the Party.
 
-==== 2.3 Expectations of Members ==== 
+### 2.3 Expectations of Members
 
 All members are expected to:
 
@@ -105,7 +104,7 @@ All members are expected to:
 
 * help as best they can with promoting the Pirate Party and its values and positions in their local area.
 
-=== Article 3.0 – Decision Making === 
+## Article 3.0 – Decision Making 
 
 When the party must choose:
 
@@ -117,9 +116,9 @@ None of the Others will always be an option and can never be eliminated until it
 
 Meeting minutes and platform positions must note the degree of agreement each decision had.
 
-=== Article 4.0: Member Meetings === 
+## Article 4.0: Member Meetings
 
-==== 4.1 General ==== 
+### 4.1 General
 
 4.1.1 The Member Meeting is the party's highest decision making body and serve as its legislature.
 
@@ -127,7 +126,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.1.3 Notice of meeting documents must be mailed at least two (2) weeks before the beginning of the meeting.
 
-==== 4.2 Form ==== 
+### 4.2 Form 
 
 4.2.1 The Member Meeting will be held over the Internet.
 
@@ -135,7 +134,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.2.3 Regular membership meetings will run for six (6) weeks, with all voting matters of substance located in the last two (2) weeks.
 
-==== 4.3 Time ====
+### 4.3 Time
 
 4.3.1 Members will meet as a regular Member Meeting two (2) times a year. These meetings are known as spring and autumn meetings.
 
@@ -143,7 +142,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.3.3 The Summer meeting always begins the first week of August.
 
-==== 4.4 Rights ==== 
+### 4.4 Rights
 
 4.4.1 Party members have the right participate in the Member Meeting and offer their opinions and make proposals.
 
@@ -157,7 +156,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.4.6 The Meeting chair has an exclusive right to bring order to deprive the member or another stage its expression and / or proposed right in all or parts of, the Member Meeting.
 
-==== 4.5 Bills ====
+### 4.5 Bills 
 
 4.5.1 The Pirate Council has the right to bring a proposal to the Member Meeting. Such a proposal is called Bill.
 
@@ -167,7 +166,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 * a draft business plan for the next financial year.
 
-==== 4.6 Motions ==== 
+### 4.6 Motions 
 
 4.6.1 Each member is entitled to bring a motion to the Member Meeting.
 
@@ -175,7 +174,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.6.3 All motions shall be presented no later than the day the meeting begins.
 
-==== 4.7 Nominations for Elections ====
+### 4.7 Nominations for Elections 
 
 4.7.1 Each member is entitled to nominate persons for election that takes place at a Member Meeting.
 
@@ -185,7 +184,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.7.4 Meeting Council presents the list of nominees, and which nominees accepted or declined the nomination.
 
-==== 4.8 Meeting Council ====
+### 4.8 Meeting Council 
 
 4.8.1 There shall be a Meeting Council to administer each Members Meeting.
 
@@ -203,7 +202,7 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 4.8.8 Meeting Council decides points of order by a simple majority.
 
-==== 4.9 Agenda ====
+### 4.9 Agenda 
 
 4.9.1 The Winter Meeting will deal with only the following points:
 
@@ -239,21 +238,21 @@ Meeting minutes and platform positions must note the degree of agreement each de
 
 * 7th Meeting adjourned
 
-=== Article 5.0 - Local Chapters === 
+## Article 5.0 - Local Chapters 
 
-==== 5.1 Role ====
+### 5.1 Role 
 
 Local chapters serve as the basis for the Pirate Party and are expected to help coordinate Party Party activities in their area.
 
-==== 5.2 Organization ==== 
+### 5.2 Organization 
 
 It is up to the local chapter to determine how best to organize themselves so long as they transparent, democratic and follow Articles 3 (Decision Making) and 4 (Meetings).  
 
-==== 5.3 Expectations ==== 
+### 5.3 Expectations 
 
 Each chapter is expected to keep in contact with the pirates in their area and to organize events in its area at least once a quarter.
 
-==== 5.4 Recognition ==== 
+### 5.4 Recognition 
 
 A Pirate Party chapter must be recognized when it achieves the following requirements:
 
@@ -263,7 +262,7 @@ A Pirate Party chapter must be recognized when it achieves the following require
 
 * notifies the 1st Officer in writing that it has achieved the above requirements.
 
-==== 5.5 State Responsibilities ==== 
+### 5.5 State Responsibilities 
 
 The 1st Officer must:
 
@@ -275,19 +274,19 @@ The 1st Officer must:
 
 * provide a sample articles of agreement that new chapters may use as a basis for their own articles of agreement.
 
-=== Article 6.0 – Pirate Council === 
+## Article 6.0 – Pirate Council 
 
-==== 6.1 Purpose ====
+### 6.1 Purpose
 
 The Pirate Council shall oversee the day to day affairs of the party.  It shall function as the executive branch of the party.
 
-==== 6.2 Composition ====
+### 6.2 Composition
 
 The Pirate Council shall be composed of seven members: Captain, Quartermaster, 1st Officer, PR/Media Director, Activism Director, 
 Swarmcare Director and Web/Info Director.  The PR/Media, Activism, Swarmcare and Web/Info Directors would be responsible for their 
 particular areas.
 
-==== 6.3 Election ====
+### 6.3 Election 
 
 Members shall elect a Pirate Council once a year at our annual conference. 
 
@@ -295,7 +294,7 @@ Ballots as well as voting instructions and the date ballots are to be returned s
 election date. Members must be able to submit their secret ballots electronically or by mail.  All members shall be elected using IRV 
 as defined in Article 3.0. 
 
-==== 6.4 Officers ==== 
+### 6.4 Officers 
 
 6.4.1  There shall be three officers: the Captain, the Quartermaster and the 1st Officer.
 
@@ -305,11 +304,11 @@ as defined in Article 3.0.
 
 6.4.4  The 1st Officer shall be the Secretary of the party.  She will also be a spokesperson for the party and will take over the duties when the Captain is unable to do so.
 
-==== 6.5 Vacancies ==== 
+### 6.5 Vacancies
 
 The Pirate Council shall vote to fill vacancies for any officer or other Pirate Council position using the decision making process defined in Article 3.0.  Replacements for officer or to the Pirate Council shall serve out the remainder of the office's term.
 
-=== Article 7.0 - Campaign Commanders === 
+## Article 7.0 - Campaign Commanders
 
 On an as needed basis, the Pirate Council or member meetings shall elect party members to oversee the party's campaigns for a defined duration. Prospective Campaign Commanders must present in writing a campaign plan that lists:
 
@@ -327,7 +326,7 @@ On an as needed basis, the Pirate Council or member meetings shall elect party m
 
 Campaign Commanders are expected to carry out their campaigns in light of the campaign plan and changing circumstances, notify the Pirate Council of the status of her campaign and to ensure that there is a written review of the campaign which is made available to party members.
 
-=== Article 8.0 - Candidate Selection === 
+## Article 8.0 - Candidate Selection 
  
 The Pirate Party shall:
 
@@ -353,7 +352,7 @@ Candidates or their campaign managers are expected to follow the process enumera
 
 Local chapters shall be responsible for identifying candidates and suggesting to the Pirate Council that the party should support such candidates.  Candidates from areas where no local chapter exists may request of the Pirate Council that the Party support them.
 
-=== Article 9.0 - Council of Arbitrators ===
+## Article 9.0 - Council of Arbitrators
 
 Purpose: The Council of Arbitrators shall oversee selection of judges and ensure that the judicial decisions of the party are made in a timely manner.
 
@@ -371,6 +370,6 @@ Disputes between members:  Party members may bring party-related disputes that t
 
 Disputes over party decisions:  Party members who object to a decision made by the party, may object to the decision as unconstitutional.  The Council of Arbitrators shall select, using a random method that can be verified as truly random, a number of judges to review the decision and rule on whether it was unconstitutional or not.  The Council shall choose either one or three judges depending on the magnitude of the decision.
 
-=== Article 10.0 - Amending the Articles of Agreement === 
+## Article 10.0 - Amending the Articles of Agreement
 
 It shall require a two thirds vote of a Members Meeting to amend any part of these Articles of Agreement.

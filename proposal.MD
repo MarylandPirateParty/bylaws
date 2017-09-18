@@ -3,10 +3,20 @@
 ## Index
 
 * Article 1.0 - Purpose and Values
+* Article 2.0 – Membership
+* Article 3.0 – Decision Making 
+* Article 4.0 - Member Meetings
+* Article 5.0 - Local Chapters
+* Article 6.0 – Pirate Council 
+* Article 7.0 - Campaign Commanders
+* Article 8.0 - Candidate Selection 
+* Article 9.0 - Council of Arbitrators
+* Article 10.0 - Amending the Articles of Agreement
 
 ## Edit History
 
-* Started on 9/14/2017.
+* Start: 9/14/2017
+* Formatting: 9/18/17
 
 ## Inspiration
 
@@ -116,7 +126,7 @@ None of the Others will always be an option and can never be eliminated until it
 
 Meeting minutes and platform positions must note the degree of agreement each decision had.
 
-## Article 4.0: Member Meetings
+## Article 4.0 - Member Meetings
 
 ### 4.1 General
 

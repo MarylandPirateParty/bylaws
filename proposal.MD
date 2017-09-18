@@ -66,7 +66,7 @@ We believe that:
 
 1.3.3  Modification of principle program requires at least three-quarters (3 / 4) of the votes to go through.
 
-==== 1.4 Electronic communication ==== 
+### 1.4 Electronic communication
 
 For the Party and the purposes of these Articles of Agreement:
 

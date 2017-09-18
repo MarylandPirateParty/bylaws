@@ -1,4 +1,9 @@
-== Maryland Pirate Party Articles of Agreement (bylaws) ==
+# Maryland Pirate Party Articles of Agreement (bylaws)
+
+## Index
+
+[Article 1.0 - Purpose and Values][1]
+
 
 === Edit History ===
 
@@ -10,8 +15,8 @@ Other Pirate Party constitutions to align with:
 
 * [https://masspirates.org/wiki/Articles_of_Agreement Massachusetts Pirate Party]
 
-=== Article 1.0 - Purpose and Values === 
-
+## Article 1.0 - Purpose and Values 
+[1]
 ==== 1.1  Purpose ==== 
 
 The purpose of the Maryland Pirate Party shall be to further the cause of freedom and unleash the power of individual creativity, through:

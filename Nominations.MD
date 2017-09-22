@@ -17,7 +17,7 @@
 # Activism Director
 * TBD
 
-# Swarmcare Director
+# Swarmwise Director
 * TBD
 
 # Web/Info Director

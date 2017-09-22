@@ -84,11 +84,11 @@ A member is:
 
 * A Maryland voter who is registered as a Pirate;
 
-* A Maryland voter who is not registered in any other party and who notifies the Maryland Pirate Party that she wishes to be a member and provides her mailing address;
+* A Maryland voter who is not registered in any other party and who notifies the Maryland Pirate Party that wishes to be a member and provides their mailing address;
 
-* A citizen who cannot or chooses not to register to vote and who notifies the Maryland Pirate Party that she wishes to be a member and provides her mailing address
+* A citizen who cannot or chooses not to register to vote and who notifies the Maryland Pirate Party that wishes to be a member and provides their mailing address
 
-* A non-citizen of Maryland who notifies the Maryland Pirate Party that she wishes to be a member and provides her mailing address.
+* A non-citizen of Maryland who notifies the Maryland Pirate Party that wishes to be a member and provides their mailing address.
 
 ### 2.2  Member Entitlements
 
@@ -270,11 +270,11 @@ A Pirate Party chapter must be recognized when it achieves the following require
 
 * chooses its own articles of agreement that define its purpose, and how it organizes itself and makes decisions.  The Maryland Pirate Party will provide a sample articles of agreement that local chapters may use as a starting point;
 
-* notifies the 1st Officer in writing that it has achieved the above requirements.
+* notifies the First Officer in writing that it has achieved the above requirements.
 
 ### 5.5 State Responsibilities 
 
-The 1st Officer must:
+The First Officer must:
 
 * create or maintain an application form for local chapters to request recognition;
 
@@ -292,7 +292,7 @@ The Pirate Council shall oversee the day to day affairs of the party.  It shall 
 
 ### 6.2 Composition
 
-The Pirate Council shall be composed of seven members: Captain, Quartermaster, 1st Officer, PR/Media Director, Activism Director, 
+The Pirate Council shall be composed of seven members: Captain, Quartermaster, First Officer, PR/Media Director, Activism Director, 
 Swarmcare Director and Web/Info Director.  The PR/Media, Activism, Swarmcare and Web/Info Directors would be responsible for their 
 particular areas.
 
@@ -306,13 +306,13 @@ as defined in Article 3.0.
 
 ### 6.4 Officers 
 
-6.4.1  There shall be three officers: the Captain, the Quartermaster and the 1st Officer.
+6.4.1  There shall be three officers: the Captain, the Quartermaster and the First Officer.
 
 6.4.2  The Captain shall be Chair and primary spokesperson of the party;
 
 6.4.3  The Quartermaster shall be the Treasurer of the party;
 
-6.4.4  The 1st Officer shall be the Secretary of the party.  She will also be a spokesperson for the party and will take over the duties when the Captain is unable to do so.
+6.4.4  The First Officer shall be the Secretary of the party.  First Officer will also be a spokesperson for the party and will take over the duties when the Captain is unable to do so.
 
 ### 6.5 Vacancies
 
@@ -334,7 +334,7 @@ On an as needed basis, the Pirate Council or member meetings shall elect party m
 
 * how the campaign will be reviewed to determine what lessons we learned.
 
-Campaign Commanders are expected to carry out their campaigns in light of the campaign plan and changing circumstances, notify the Pirate Council of the status of her campaign and to ensure that there is a written review of the campaign which is made available to party members.
+Campaign Commanders are expected to carry out their campaigns in light of the campaign plan and changing circumstances, notify the Pirate Council of the status of their campaign and to ensure that there is a written review of the campaign which is made available to party members.
 
 ## Article 8.0 - Candidate Selection 
  
@@ -342,15 +342,15 @@ The Pirate Party shall:
 
 * not nominate, endorse, or support candidates for state-wide office until the Party gains permanent ballot status (i.e. has registered in the Party 1% of all Maryland voters).
 
-* mentions on any electronic media and materials the Party maintains any party member who is a candidate provided that the candidate notifies the 1st Officer in writing:
+* mentions on any electronic media and materials the Party maintains any party member who is a candidate provided that the candidate notifies the First Officer in writing:
 
-* of the office for which she is running;
+* of the office for which they are running;
 
-* that she supports the Party's core platform;
+* that they supports the Party's core platform;
 
-* that she supports the Pirate Party's core value;
+* that they supports the Pirate Party's core value;
 
-* of her campaign's contact information.
+* of their campaign's contact information.
 
 * nominate candidates for partisan elections when the candidate is a Pirate Party member;
 

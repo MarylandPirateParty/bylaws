@@ -4,7 +4,8 @@
 * captian@mdpirateparty.org
 
 # Quatermaster
-* William 
+* William Mitchell 
+* 406-437-2405
 * harford@mdpirateparty.org
 --------------------
 See Meeting Logs For Much More Information

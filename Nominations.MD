@@ -5,7 +5,22 @@
 
 # Quatermaster
 * William Mitchell 
-* 406-437-2405
+* 410-929-2446
 * harford@mdpirateparty.org
+
+# First Officer
+* TBD
+
+# PR/Media Director
+* TBD
+
+# Activism Director
+* TBD
+
+# Swarmcare Director
+* TBD
+
+# Web/Info Director
+* TBD
 --------------------
 See Meeting Logs For Much More Information

@@ -293,7 +293,7 @@ The Pirate Council shall oversee the day to day affairs of the party.  It shall 
 ### 6.2 Composition
 
 The Pirate Council shall be composed of seven members: Captain, Quartermaster, First Officer, PR/Media Director, Activism Director, 
-Swarmcare Director and Web/Info Director.  The PR/Media, Activism, Swarmcare and Web/Info Directors would be responsible for their 
+Swarmwise Director and Web/Info Director.  The PR/Media, Activism, Swarmwise and Web/Info Directors would be responsible for their 
 particular areas.
 
 ### 6.3 Election 

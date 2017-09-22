@@ -9,7 +9,9 @@
 * harford@mdpirateparty.org
 
 # First Officer
-* TBD
+* Jordan Felle
+* 410-929-2446
+* anne_arundel@mdpirateparty.org
 
 # PR/Media Director
 * TBD

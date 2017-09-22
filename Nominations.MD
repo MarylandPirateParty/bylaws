@@ -5,6 +5,6 @@
 
 # Quatermaster
 * William 
-
+* harford@mdpirateparty.org
 --------------------
 See Meeting Logs For Much More Information
